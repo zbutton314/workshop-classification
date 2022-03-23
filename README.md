@@ -11,6 +11,12 @@
 3. Navigate to your workshop-classification directory in cmd/terminal
   - Ex. "cd path/to/repo/workshop-classification"
 4. Create conda virtual environment
-
+  - Ex. "conda env create --name spam --file spam-env.txt"
+5. Activate virtual environment
+  - Ex. "conda activate spam"
 
 ### Follow these steps to run the package
+1. Navigate to workshop-classification directory
+2. Activate conda virtual environment
+3. Execute main.py
+  - "python -m spam_hunter.main"

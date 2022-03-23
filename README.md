@@ -5,14 +5,14 @@
 4. Use Shift+Enter to execute a cell (model building code near bottom may take a few minutes)
 
 # Resources
-[Workshop Slides](https://docs.google.com/presentation/d/1lQHQxkNJnh-mQr_F8ezILrz44P1MWel1e7JkUiFdnQc/edit#slide=id.p)
-[Naive Bayes](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
-[K-Nearest Neighbors](https://towardsdatascience.com/knn-k-nearest-neighbors-1-a4707b24bd1d)
-[Logistic Regression](https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148)
-[Decision Trees](https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14)
-[Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
-[XGBoost](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7)
-[Support Vector Machines](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+- [Workshop Slides](https://docs.google.com/presentation/d/1lQHQxkNJnh-mQr_F8ezILrz44P1MWel1e7JkUiFdnQc/edit#slide=id.p)
+- [Naive Bayes](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
+- [K-Nearest Neighbors](https://towardsdatascience.com/knn-k-nearest-neighbors-1-a4707b24bd1d)
+- [Logistic Regression](https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148)
+- [Decision Trees](https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14)
+- [Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+- [XGBoost](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7)
+- [Support Vector Machines](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
 # Spam Hunter Package
 

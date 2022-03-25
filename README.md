@@ -1,6 +1,6 @@
 # Main Workshop Notebook
 1. From the [data folder](https://github.com/zbutton314/workshop-classification/tree/main/data), download spambase.csv and spambase_val.csv
-  - Click file, click "Raw", right-click, Save As, add the ".csv" extension
+  - Click file, click "Raw", right-click and Save As, add the ".csv" extension
 3. From the [notebook file](https://github.com/zbutton314/workshop-classification/blob/main/notebooks/Classification_Walkthrough.ipynb), click "Open in Colab"
 4. In Google Colab, upload the two CSV files
 5. Use Shift+Enter to execute a cell (model building code near bottom may take a few minutes)
